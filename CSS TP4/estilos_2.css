@@ -1,0 +1,215 @@
+#logo_header {
+/* alinear a la izquierda */
+}
+.menu_header {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: right;
+	color: #233141;
+}
+.boton_search {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	background-color: #00abf0;
+	text-transform: uppercase;
+	color: white;
+}
+.titulos_1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	text-align: left;
+	letter-spacing: 2px;
+	color: #233141;	
+	text-align: center;
+}
+.texto_bajo_icono {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-align: left;
+	color: #233141;
+	text-align: center;
+}
+#cabecera {
+	background-image: url(indexbanner-bg3.jpg);
+	background-size: 100%;
+	height: 439px;
+}
+.super_titulo {
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #233141;
+}
+.super_subtitulo {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #7a7c80;
+}
+.titulos_2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #233141;	
+	text-align: right;
+}
+.texto_bajo_icono_2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #233141;
+	text-align: right;
+}
+.titulos_3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #233141;	
+	text-align: left;
+}
+.texto_bajo_icono_3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-align: left;
+	color: #233141;
+}
+.fondo_pricing {
+	background-image: url(pricing-bg.jpg);
+	background-size: 100%;
+	height: 365px;
+}
+.titulo_tabla {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #1b1b1b;	
+	text-align: center;
+}
+.pricing {
+	font-family: 'Raleway', sans-serif;
+	font-size: 55px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #1b1b1b;	
+	text-align: center;
+}
+.month {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #7a7c80;	
+	text-align: center;
+}
+.columna_1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #1b1b1b;	
+	text-align: center;
+}
+.columna_2_1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #67d6ff;
+	text-align: center;
+}
+.columna_2_2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #f9d423;
+	text-align: center;
+}
+.columna_2_3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #ff9359;
+	text-align: center;
+}
+.columna_2_4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #f75f40;
+	text-align: center;
+}
+.boton_tabla {
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	background-color: #00abf0;
+	text-transform: uppercase;
+	color: white;
+}
+.frase_final {
+	font-family: 'Raleway', sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: white;
+}
+.numero_destacado {
+	font-family: 'Raleway', sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #00aff1;
+}
+.todo_aside {
+	text-align: center;
+	background-color: #223141;
+	padding: 72px 91px;
+	border: 0px;
+	margin: 0px;
+}
+.footer {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	color: #c2c5cc;	
+	background-color: #161d26;
+	height: 120px;
+}
+.super_titulo_3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-align: left;
+	color: white;
+}
+.super_subtitulo_3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	text-align: left;
+	color: white;

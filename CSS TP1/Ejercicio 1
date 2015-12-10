@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Runkeeper</title>title>
+	</head>
+	<body>
+		<header>
+			<p>Runkeeper</p>
+			<nav>
+				<p>Home</p>
+				<p>About</p>
+				<p>Features</p>
+			</nav>
+		</header>
+		<section>
+		<!-- Slider -->
+		</section>
+		<article>
+		<!-- Imagen 3 pasos -->
+		</article>
+		<article>
+		<!-- Get the app -->
+		</article>
+		<footer>
+			<section>
+				<h1>Quicky links</h2>
+			</section>
+			<section>
+				<h2>More</h2>
+			</section>
+			<section>
+				<h3>Connect with us</h2>
+			</section>
+			<section>
+				<h4>Newsletter</h2>
+			</section>
+		</footer>
+	</body>
+</html>
+
+
+				
+

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>A web page</title>title>
+	</head>
+	<body>
+		<header>
+			<img src="logo">
+			<nav>
+				<p>Home</p>
+				<p>Contact</p>
+			</nav>
+		</header>
+		<section>
+			<img src="foto">
+		<!-- formulario -->
+		</section>
+		<article>
+			<section>
+				<h1>Some Text 1</h1>
+			</section>
+			<section>
+				<h2>Some Text 2</h2>
+			</section>
+			<section>
+				<h3>Some Text 3</h3>
+			</section>
+			<section>
+				<h4>Some Text 4</h4>
+			</section>
+		</article>
+		<article>
+			<p>A Subtitle</p>
+			<section>
+				<h1>Columna 1</h1>
+					<!-- 3 cajas de texto, imágenes a la derecha -->
+			</section>
+			<section>
+				<img src="iPhone">
+			</section>
+			<section>
+				<h3>Columna 3</h2>
+					<!-- 3 cajas de texto, imágenes a la izquierda -->
+			</section>
+		</article>
+		<aside>
+			<p>A Subtitle</p>
+		</aside>
+		<article>
+			<section>
+				<h1>Some Text 1</h1>
+					<!-- Título,Precio,Línea,4 Líneas texto,Botón -->
+			</section>
+			<section>
+				<h2>Some Text 2</h2>
+					<!-- Título,Precio,Línea,4 Líneas texto,Botón -->
+			</section>
+			<section>
+				<h3>Some Text 3</h3>
+					<!-- Título,Precio,Línea,4 Líneas texto,Botón -->
+			</section>
+			<section>
+				<h4>Some Text 4</h4>
+					<!-- Título,Precio,Línea,4 Líneas texto,Botón -->	
+			</section>
+		</article>
+		<aside>
+			<p>Hosting use 500,000 happy customers. Want to see services?</p>
+		</aside>
+		<footer>
+			<p>Some text</p>
+			<nav>Home</nav>
+			<nav>Contact</nav>
+		</footer>
+	</body>
